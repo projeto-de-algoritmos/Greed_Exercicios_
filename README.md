@@ -1,4 +1,4 @@
-**Greed_Dupla14** 
+**Greed_Exercicios_Dupla14** 
 
 Tema:
  - Greed
@@ -7,15 +7,15 @@ Tema:
  
  (Apague essa seção)
 
-# NomedoProjeto
+# Greed_Exercicios
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Greed Algorithm
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2016524  |  Henrique Torres Landin |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
