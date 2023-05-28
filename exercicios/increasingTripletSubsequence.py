@@ -1,7 +1,7 @@
 class Solution(object):
     def increasingTriplet(self, nums):
-        min1 = float('inf')  # Define o primeiro menor valor como infinito
-        min2 = float('inf')  # Define o segundo menor valor como infinito
+        min1 = float()
+        min2 = float()  
 
         for num in nums:
             if num <= min1:
