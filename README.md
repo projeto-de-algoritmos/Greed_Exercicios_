@@ -2,14 +2,9 @@
 
 Tema:
  - Greed
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# Greed_Exercicios
+# Greed_Exercicios_Dupla13
 
-**Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Greed Algorithm
 
 ## Alunos
@@ -22,19 +17,19 @@ Tema:
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Increasing Triplet Subsequence
+![Increasing Triplet Subsequence](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/assets/102327244/18b42071-1409-4543-b728-0714c63994fa)
+- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/increasing-triplet-subsequence/)
+- Para ter acesso ao arquivo com o código cliqeu [aqui](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/blob/master/exercicios/increasingTripletSubsequence.py)
+
+### PatchingArray
+![PatchingArray](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/assets/102327244/109c85e1-3d2b-4956-b424-7723828718bc)
+- Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/patching-array/)
+- Para ter acesso ao arquivo com o código cliqeu [aqui](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/blob/master/exercicios/patchingArray.py)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python
+- Não é necessário instalar nada!
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+- Para executar, basta copiar o código em seus devidos arquivos e colar no leetCode para verificar o funcionamento do algoritmo.
