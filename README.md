@@ -36,7 +36,12 @@ Descreva os objetivos do seu projeto e como ele funciona.
 - Dificuldade: Medium
 - Para acessar o exercicio no leetcode clique [aqui](https://leetcode.com/problems/gas-station/description/)
 - Para ter acesso ao código [aqui](https://leetcode.com/problems/gas-station/submissions/959716574/)
+- Para ter acesso ao VÍDEO [aqui](https://youtu.be/Hev76-KK7H0)
 ![GasStation](https://github.com/projeto-de-algoritmos/Greed_Exercicios_Dupla14/blob/master/exercicios/ex03.png?raw=true)
+
+
+
+
 
 
 
